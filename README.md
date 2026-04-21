@@ -14,14 +14,6 @@
 
 StockPulse is a production-grade Mobile Application built specifically for the Indian retail investor. It bridges the gap between raw market data and actionable insights by taking real-time news streams and pushing them through advanced Large Language Models (LLMs) to formulate an instant, on-device "Sentiment Pulse."
 
-## 📱 Visual Overview
-> *Replace these placeholders with real application screenshots.*
-
-| Watchlist / Dashboard | AI Sentiment Engine | Market Search |
-| :---: | :---: | :---: |
-| <img src="placeholder-home.png" width="220" alt="Home Screen"> | <img src="placeholder-detail.png" width="220" alt="Detail Screen"> | <img src="placeholder-search.png" width="220" alt="Search Screen"> |
-
----
 
 ## ✨ System Features
 
